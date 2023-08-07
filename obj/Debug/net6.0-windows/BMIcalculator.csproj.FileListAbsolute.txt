@@ -1,0 +1,17 @@
+C:\Users\asiph\OneDrive\Desktop\C#\testing\BMIcalculator\bin\Debug\net6.0-windows\BMIcalculator.exe
+C:\Users\asiph\OneDrive\Desktop\C#\testing\BMIcalculator\bin\Debug\net6.0-windows\BMIcalculator.deps.json
+C:\Users\asiph\OneDrive\Desktop\C#\testing\BMIcalculator\bin\Debug\net6.0-windows\BMIcalculator.runtimeconfig.json
+C:\Users\asiph\OneDrive\Desktop\C#\testing\BMIcalculator\bin\Debug\net6.0-windows\BMIcalculator.dll
+C:\Users\asiph\OneDrive\Desktop\C#\testing\BMIcalculator\bin\Debug\net6.0-windows\BMIcalculator.pdb
+C:\Users\asiph\OneDrive\Desktop\C#\testing\BMIcalculator\obj\Debug\net6.0-windows\BMIcalculator.csproj.AssemblyReference.cache
+C:\Users\asiph\OneDrive\Desktop\C#\testing\BMIcalculator\obj\Debug\net6.0-windows\BMIcalculator.Form1.resources
+C:\Users\asiph\OneDrive\Desktop\C#\testing\BMIcalculator\obj\Debug\net6.0-windows\BMIcalculator.csproj.GenerateResource.cache
+C:\Users\asiph\OneDrive\Desktop\C#\testing\BMIcalculator\obj\Debug\net6.0-windows\BMIcalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asiph\OneDrive\Desktop\C#\testing\BMIcalculator\obj\Debug\net6.0-windows\BMIcalculator.AssemblyInfoInputs.cache
+C:\Users\asiph\OneDrive\Desktop\C#\testing\BMIcalculator\obj\Debug\net6.0-windows\BMIcalculator.AssemblyInfo.cs
+C:\Users\asiph\OneDrive\Desktop\C#\testing\BMIcalculator\obj\Debug\net6.0-windows\BMIcalculator.csproj.CoreCompileInputs.cache
+C:\Users\asiph\OneDrive\Desktop\C#\testing\BMIcalculator\obj\Debug\net6.0-windows\BMIcalculator.dll
+C:\Users\asiph\OneDrive\Desktop\C#\testing\BMIcalculator\obj\Debug\net6.0-windows\refint\BMIcalculator.dll
+C:\Users\asiph\OneDrive\Desktop\C#\testing\BMIcalculator\obj\Debug\net6.0-windows\BMIcalculator.pdb
+C:\Users\asiph\OneDrive\Desktop\C#\testing\BMIcalculator\obj\Debug\net6.0-windows\BMIcalculator.genruntimeconfig.cache
+C:\Users\asiph\OneDrive\Desktop\C#\testing\BMIcalculator\obj\Debug\net6.0-windows\ref\BMIcalculator.dll
