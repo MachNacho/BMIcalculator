@@ -45,12 +45,10 @@
             // RBMetric
             // 
             RBMetric.AutoSize = true;
-            RBMetric.Checked = true;
             RBMetric.Location = new Point(3, 9);
             RBMetric.Name = "RBMetric";
             RBMetric.Size = new Size(59, 19);
             RBMetric.TabIndex = 0;
-            RBMetric.TabStop = true;
             RBMetric.Text = "Metric";
             RBMetric.UseVisualStyleBackColor = true;
             RBMetric.CheckedChanged += radioButton1_CheckedChanged;
@@ -64,6 +62,7 @@
             RBImperial.TabIndex = 1;
             RBImperial.Text = "Imperial";
             RBImperial.UseVisualStyleBackColor = true;
+            RBImperial.CheckedChanged += RBImperial_CheckedChanged;
             // 
             // panel1
             // 
@@ -73,11 +72,12 @@
             panel1.Name = "panel1";
             panel1.Size = new Size(202, 41);
             panel1.TabIndex = 3;
+            panel1.Paint += panel1_Paint;
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(146, 95);
+            label1.Location = new Point(146, 136);
             label1.Name = "label1";
             label1.Size = new Size(43, 15);
             label1.TabIndex = 7;
@@ -86,7 +86,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(146, 136);
+            label2.Location = new Point(146, 95);
             label2.Name = "label2";
             label2.Size = new Size(45, 15);
             label2.TabIndex = 8;
@@ -147,6 +147,7 @@
             Controls.Add(panel1);
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)RollHeight).EndInit();
