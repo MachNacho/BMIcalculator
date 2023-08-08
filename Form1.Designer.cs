@@ -137,7 +137,8 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(358, 511);
+            BackColor = SystemColors.ControlDarkDark;
+            ClientSize = new Size(639, 356);
             Controls.Add(BtnCalculate);
             Controls.Add(lblBMIvalue);
             Controls.Add(RollWeight);
@@ -146,7 +147,7 @@
             Controls.Add(label1);
             Controls.Add(panel1);
             Name = "Form1";
-            Text = "Form1";
+            Text = "BMI calculator";
             Load += Form1_Load;
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
